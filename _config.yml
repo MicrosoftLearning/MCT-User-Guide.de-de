@@ -1,6 +1,6 @@
+title: 'GitHub-Benutzerhandbuch für MCTs'
 remote_theme: MicrosoftLearning/Jekyll-Theme
 exclude:
-  - readme.md
   - .github/
 header_pages:
   - index.html
