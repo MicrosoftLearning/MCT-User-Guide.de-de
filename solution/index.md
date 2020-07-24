@@ -1,5 +1,5 @@
-# Die GitHub-Lösung für Kurs-Labs von Microsoft Learn
+# Solución de GitHub para los laboratorios de curso de Microsoft Learning
 
-Das Team von Microsoft Learn hat eine Lösung entwickelt, mit der aktualisierte Labs und Lab-Antwortschlüssel (LAKs) sowie aktualisierte Lab-Skripts regelmäßig bei GitHub veröffentlicht werden können. Die Lösung umfasst außerdem 
+El equipo de Microsoft Learning creó una solución que le permite publicar de manera periódica en GitHub claves de respuesta de laboratorio (LAK) y laboratorios actualizados, así como scripts de laboratorio actualizados. La solución también incluye 
 
-> Demnächst verfügbar
+> Disponible próximamente

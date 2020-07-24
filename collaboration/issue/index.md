@@ -1,23 +1,23 @@
-﻿# Issues
+﻿# Incidencias
 
-Wenn Sie ein Issue oder einen Kommentar zu dem Pull-Request oder zu einem Commit erstellen, können Sie auch andere GitHub-Benutzer oder Teams in die Unterhaltung einschließen, indem Sie diese im Kommentartext **erwähnen**. Wenn Sie mit sozialen Mediendiensten vertraut sind, wird Ihnen dieses Feature bekannt vorkommen.
+Cuando crea una incidencia o comenta una solicitud de extracción o confirmación, también puede incluir otros usuarios o equipos de GitHub en la conversación. Para ello, realice una **mención** de ellos en el cuerpo del comentario. Si tiene conocimientos de los servicios de redes sociales, esta característica le resultará familiar.
 
-## Übermitteln eines Issues
+## Enviar una incidencia
 
-1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**.
+1.	En su explorador, vaya al repo en aplicable en **GitHub**.
 
-2.	Klicken Sie auf **Issues** und dann auf **New issue**.
+2.	Haga clic en **Issues** y luego en **New issue**.
 
-3.	Geben Sie im Textfeld **Title** den Titel des Issues ein, und geben Sie im Textfeld **Leave a comment** eine Beschreibung des Issues oder des Vorschlags ein.
+3.	En el cuadro de texto **Title**, especifique el título de la incidencia y en el cuadro de texto **Leave a comment**, escriba una descripción de la incidencia o sugerencia.
 
-4.	Klicken Sie auf **Submit new issue**.
+4.	Haga clic en **Submit new issue**.
 
-## Überprüfen und Kommentieren eines vorhandenen Issues
+## Revisar y comentar una incidencia existente
 
-1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**.
+1.	En su explorador, vaya al repo en aplicable en **GitHub**.
 
-2.	Klicken Sie auf **Issues**, und wählen Sie dann den Titel des Issues aus, das Sie überprüfen möchten.
+2.	Haga clic en **Issues** y seleccione el título de la incidencia que desee revisar.
 
-3.	Geben Sie auf der Seite **Issue name** auf der Registerkarte **Write** im Textfeld **Leave a comment** Ihren Kommentar ein.
+3.	En la página **Issue name**, en la pestaña **Write**, en el cuadro de texto **Leave a comment**, escriba su comentario.
 
-4.	Klicken Sie auf **Comment**.
+4.	Haga clic en **Comment**.
