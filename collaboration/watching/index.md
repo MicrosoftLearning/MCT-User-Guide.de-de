@@ -1,17 +1,17 @@
-# Seguir a un repo
+# Beobachten eines Repositorys
 
-La manera más sencilla de asegurarse de estar al corriente de los cambios de un repo es mirándolo. Puede hacerlo, incluso si no clona una copia local del repo.
+Die einfachste Möglichkeit, um sicherzustellen, dass Sie über Änderungen an einem Repository auf dem Laufenden sind, besteht darin, das Repository zu beobachten. Dies ist auch dann möglich, wenn Sie eine lokale Kopie des Repositorys nicht klonen.
 
-Para seguir a un repo, realice los pasos siguientes:
+Führen Sie die folgenden Schritte aus, um ein Repository zu beobachten:
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
 
-2.	Haga clic en **Watch**, luego en **Notifications**, seleccione **Watching**.
+2.	Klicken Sie auf **Watch**, und wählen Sie dann unter **Notifications** die Option **Watching** aus.
 
-Para dejar de seguir a un repo, realice los pasos siguientes:
+Führen Sie die folgenden Schritte aus, um die Beobachtung eines Repositorys zu beenden:
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
 
-2.	Haga clic en **Watch**, luego en Notifications, seleccione **Not watching**.
+2.	Klicken Sie auf **Watch**, und wählen Sie dann unter „Notifications“ die Option **Not watching** aus.
 
-> **Nota**: Puede seleccionar la opción **Ignoring** de la lista desplegable **Watch**. Sin embargo, esto significa que no recibirá notificaciones, incluso si otro usuario lo incluye en una conversación con la funcionalidad de mención y el nombre de usuario. Por lo tanto, tenga cuidado a la hora de configurar la opción **Ignoring**.
+> **Hinweis**: Sie können die Option **Ignoring** in der Dropdownliste **Watch** ignorieren. Dies bedeutet jedoch, dass Sie keine Benachrichtigungen erhalten, auch dann nicht, wenn ein anderer Benutzer Sie mit der Erwähnungsfunktion und Ihrem GitHub-Benutzernamen in eine Diskussion einschließt. Sie sollten daher bei der Konfiguration der Option **Ignoring** vorsichtig sein.

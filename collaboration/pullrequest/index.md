@@ -1,71 +1,71 @@
-# Sugerir cambios y colaborar en un repo
+# Vorschlagen von Änderungen und Zusammenarbeiten an einem Repository
 
-En GitHub, es muy fácil colaborar con otros usuarios de Microsoft Learning en los cursos de su interés. 
+Mit GitHub ist die Zusammenarbeit mit anderen Microsoft Learn-Benutzern an den Kursen, die Sie interessieren, ganz leicht. 
 
-Puede modificar su propia copia del material del laboratorio y luego enviar sus cambios a Microsoft Learning para que se puedan incorporar las actualizaciones. Quizás quiera modificar el material del laboratorio por los siguientes motivos:
+Sie können Ihre eigene Kopie der Lab-Materialien ändern und die Änderungen dann an Microsoft Learn übermitteln, damit Ihre Aktualisierungen eingearbeitet werden können. Sie möchten Ihre Lab-Materialien vielleicht ändern, wenn:
 
-- Encuentra un error en un laboratorio. 
+- Sie einen Fehler in einem Lab finden. 
 
-- La interfaz de usuario ha cambiado desde la creación del laboratorio. 
+- Sich die Benutzeroberfläche seit der Erstellung des Labs geändert hat. 
 
-- Cree que el laboratorio necesita mejoras o modificaciones.
+- Sie der Meinung sind, dass das Lab verbessert oder bearbeitet werden muss.
 
-Para modificar el material del laboratorio, debería crear una rama del repo, realizar las actualizaciones en su rama y luego enviar una solicitud de extracción a la rama principal (maestra). De este modo, el personal de Microsoft Learning y otros MCT y usuarios de GitHub puede revisar y comentar los cambios. 
+Um Lab-Materialien zu ändern, sollten Sie eine Kopie des Repositorys erstellen, darin Aktualisierungen vornehmen und dann einen Pull-Request an den Main (Master) Branch übermitteln. Auf diese Weise können die Mitarbeiter von Microsoft Learn sowie andere MCTs und GitHub-Benutzer Ihre Änderungen überprüfen und kommentieren. 
 
-Puede revisar y comentar los cambios que hagan otros usuarios, y el personal de Microsoft Learning luego los aprobará y combinará en la rama maestra. Esta acción notifica a cualquier usuario que esté siguiendo al repo que se produjo un cambio.
+Sie können Änderungen überprüfen und kommentieren, die andere Benutzer vornehmen. Die Mitarbeiter von Microsoft Learn können diese Änderungen dann genehmigen und sie mit dem Master Branch zusammenführen. Bei dieser Aktion wird ein Benutzer, der das Repository beobachtet, darüber benachrichtigt, dass eine Änderung vorgenommen wurde.
 
-## Crear una rama de repo
+## Erstellen eines Repository-Branchs
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
 
-1.	Haga clic en **Branch: nombre de la rama** y luego, en la lista **Branches**, seleccione la rama que quiera copiar.
+1.	Klicken Sie auf **Branch: Branchname** und dann in der Liste **Branches** auf den Branch, den Sie kopieren möchten.
 
-    > **Nota**:	Si hay una sola rama, en la lista desplegable **Branch** se muestra **Branch: master** y la única rama disponible es **master**.
+    > **Hinweis**:	Wenn es nur einen Branch gibt, so wird in der Dropdownliste **Branch** **Branch: master** angezeigt, und der einzige Branch, der verfügbar ist, ist **master**.
 
-3.	En el cuadro de texto vacío, escriba el nombre de la rama que desee crear.
+3.	Geben Sie in dem leeren Textfeld den Namen des Branches ein, den Sie erstellen möchten.
 
-4.	Haga clic en **Create branch: new branch name** cuando aparezca.
+4.	Klicken Sie auf **Create branch: new branch name**, wenn diese Option angezeigt wird.
 
-Después de crear una rama, puede clonar los archivos en el repo local, actualizarlos en su PC y luego insertar los cambios desde GitHub Desktop. Si trabaja con Markdown u otros archivo de texto, puede editarlos en GitHub y luego insertar los cambios en línea.
+Nachdem Sie einen Branch erstellt haben, können Sie die Dateien in Ihrem lokalen Repository klonen, sie auf Ihrem Computer aktualisieren und dann die Änderungen über den GitHub Desktop einchecken. Wenn Sie mit Markdown oder anderen Textdateien arbeiten, können Sie diese in GitHub bearbeiten und dann die Änderungen online überprüfen.
 
-## Eliminar una rama de repo
+## Löschen eines Repository-Branchs
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
 
-2.	Haga clic en ***n* branches**, donde ***n*** es el número de ramas existentes.
+2.	Klicken Sie auf ***n* branches**, wobei ***n*** für die Anzahl vorhandener Branches steht.
 
-3.	En la página **Branches**, en la fila de la rama que quiere eliminar, haga clic en el icono **Delete this branch**.
+3.	Klicken Sie auf der Seite **Branches** in der Zeile des Branches, den Sie löschen möchten, auf das Symbol **Delete this branch**.
 
-## Confirmar los cambios mediante GitHub Desktop:
+## Speichern von Änderungen mithilfe von GitHub Desktop:
 
-1.	Abre **GitHub Desktop**.
+1.	Öffnen Sie **GitHub Desktop**.
 
-2.	Seleccione el repo que contiene los cambios y luego haga clic en **Changes**.
+2.	Wählen Sie das Repository aus, das Ihre Änderungen enthält, und klicken Sie dann auf **Änderungen**.
 
-3.	Seleccione los cambios que desee confirmar y luego, en el cuadro de texto **Summary**, escriba una descripción breve del cambio.
+3.	Wählen Sie die Änderungen aus, die Sie speichern möchten, und schreiben Sie dann im Textfeld **Summary** eine kurze Beschreibung der Änderung.
 
-4.	En el campo **Description**, escriba una descripción más detallada del cambio, si fuera necesario.
+4.	Schreiben Sie im Textfeld **Description** eine ausführlichere Beschreibung der Änderung, falls erforderlich.
 
-5.	Haga clic en **Commit to master** y luego en **Sync** para insertar los cambios locales en el repo en línea.
+5.	Klicken Sie auf **Commit to master** und dann auf **Sync**, um die lokalen Änderungen in das Online-Repository zu verschieben.
 
-## Edite los archivos y confirme los cambios en el repo en línea:
+## Bearbeiten von Dateien und Speichern von Änderungen im Online-Repository:
 
-1.	En su explorador, vaya al repositorio aplicable en **GitHub** y seleccione el archivo que quiera editar.
+1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**, und wählen Sie die Datei aus, die Sie bearbeiten möchten.
 
-2.	Haga clic en el icono **Edit this file**.
+2.	Klicken Sie auf das Symbol **Edit this file**.
 
-3.	Realice los cambios en la pestaña **Edit file** de la página web y luego haga clic en **Preview changes** para ver los cambios propuestos, sin confirmarlos.
+3.	Nehmen Sie Ihre Änderungen auf der Registerkarte **Edit file** der Webseite vor, und klicken Sie dann auf **Preview changes**, um die vorgeschlagenen Änderungen anzuzeigen, ohne sie zu speichern.
 
-4.	En **Commit changes**, en el cuadro de texto **Update *nombre de archivo***, escriba una descripción breve de los cambios.
+4.	Geben Sie unter **Commit changes** im Textfeld **Update *filename*** eine kurze Beschreibung der Änderungen ein.
 
-5.	En el cuadro de texto **Add an optional extended description...**, escriba una descripción más detallada del cambio, si fuera necesario, y luego haga clic en **Commit changes**.
+5.	Geben Sie im Textfeld **Add an optional extended description...** eine ausführlichere Beschreibung der Änderung ein, falls erforderlich, und klicken Sie dann auf **Commit changes**.
 
-## Crear una solicitud de extracción:
+## Erstellen eines Pull-Requests:
 
-1.	En su explorador, vaya al repositorio en aplicable en **GitHub**.
+1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**.
 
-2.	Haga clic en **Branch: nombre de la rama** y luego, en la lista **Branches**, seleccione la rama para la que desee crear una solicitud de extracción.
+2.	Klicken Sie auf **Branch: Branchname** und dann in der Liste **Branches** auf den Branch, für den Sie einen Pull-Request erstellen möchten.
 
-3.	Haga clic en **New pull request** y luego, en la página **Open a pull request**, en el cuadro de texto **Title**, actualice el nombre de la solicitud de extracción, si fuera necesario.
+3.	Klicken Sie auf **New pull request**, und aktualisieren Sie dann auf der Seite **Open a pull request** im Textfeld **Title** den Namen des Pull-Requests, falls erforderlich.
 
-4.	En la pestaña **Write**, en el cuadro de texto **Leave a comment**, escriba una descripción del cambio propuesto y luego haga clic en **Create pull request**.
+4.	Geben Sie auf der Registerkarte **Write** im Textfeld **Leave a comment** eine Beschreibung der vorgeschlagenen Änderung ein, und klicken Sie dann auf **Create pull request**.

@@ -1,21 +1,21 @@
-﻿# Guía del usuario de GitHub para MCT
+﻿# GitHub-Benutzerhandbuch für MCTs
 
-Los servicios en la nube, como Microsoft Azure, se actualizan frecuentemente. Esto resulta en problemas para los Microsoft Certified Trainer (MCT) cuando imparten cursos, ya que los pasos de laboratorio cambian con frecuencia a medida que cambia el servicio. Debido a la frecuencia de los cambios y el hecho de que quizás no haya notificación cuando se produzcan, puede resultar difícil para el equipo de desarrollo del curso identificar rápidamente los cambios de laboratorio y reaccionar ante ellos. 
+Clouddienste wie Microsoft Azure werden häufig aktualisiert. Dies führt zu Problemen für Microsoft Certified Trainers (MCTs), wenn sie Kurse geben, da sich die Schritte in den Labs häufig ändern, wenn sich der Dienst ändert. Aufgrund der Häufigkeit von Änderungen und der Tatsache, dass es möglicherweise keine Benachrichtigung gibt, wenn Änderungen vorgenommen werden, kann es für das Kursentwicklungsteam schwierig sein, Änderungen an Labs schnell zu identifizieren und umzusetzen. 
 
-Para abordar estos problemas, usamos GitHub para publicar los pasos de laboratorio y scripts de laboratorio para los cursos que cubren los servicios en la nube, como Azure. El uso de GitHub permite a los autores del curso y los MCT mantener el contenido de laboratorio actualizado con los cambios en la plataforma de Azure. El uso de GitHub permite a los MCT proporcionar comentarios y sugerencias para los cambios de laboratorio. Luego, los autores del curso pueden actualizar los pasos y script de laboratorio rápidamente y relativa facilidad.
+Um diese Probleme zu lösen, verwenden wir GitHub, um die Lab-Schritte und die Lab-Skripts für Kurse über Clouddienste wie Azure zu veröffentlichen. Mithilfe von GitHub können die Autoren der Kurse und die MCTs den Lab-Inhalt mit Änderungen auf der Azure-Plattform synchronisieren. Über GitHub können die MCTs Feedback und Vorschläge für Lab-Änderungen abgeben, und die Autoren von Kursen können die Lab-Schritte und -Skripts dann schnell und verhältnismäßig einfach aktualisieren.
 
-A la hora de prepararse para impartir estos cursos, debe asegurarse de usar los pasos y scripts de laboratorio más reciente al descargar los archivos adecuados de GitHub. 
+Wenn Sie sich auf diese Kurse vorbereiten, sollten Sie sicherstellen, dass Sie die aktuellen Lab-Schritte und -Skripts verwenden, indem Sie die entsprechenden Dateien von GitHub herunterladen. 
 
-Esta guía de usuario es para los MCT que se están adentrando en GitHub y proporciona pasos para conectarse a GitHub, descargar e imprimir el material de curso, actualizar los scripts que los alumnos usan en los laboratorios y explicar cómo puede ayudar a que el contenido del curso permanece actualizado.
+Dieses Benutzerhandbuch richtet sich an MCTs, die noch nicht mit GitHub vertraut sind. Es enthält Schritte zum Herstellen einer Verbindung mit GitHub, zum Herunterladen und Ausdrucken von Kursmaterialien sowie zum Aktualisieren der Skripts, die Kursteilnehmer in Labs verwenden. Außerdem wird erläutert, wie Sie sicherstellen können, dass der Inhalt dieses Kurses auf dem neuesten Stand bleibt.
 
-> **Nota**: Se recomienda encarecidamente que los MCT y los socios accedan a estos materiales y, a su vez, los proporcionen por separado a los estudiantes.  Asignar los estudiantes directamente a GitHub para acceder a los pasos del laboratorio como parte de una clase en curso requerirá que accedan a otra interfaz de usuario como parte del curso, lo que contribuye a una experiencia confusa para el estudiante. Una explicación para el estudiante sobre por qué recibe instrucciones de laboratorio separadas puede resaltar la naturaleza de una interfaz y plataforma basada en la nube en constante cambio. El soporte de Microsoft Learning para acceder a los archivos en GitHub y el soporte para la navegación del sitio de GitHub se limita a los MCT que imparten este curso únicamente.
+> **Hinweis**: Es wird dringend empfohlen, dass MCTs und Partner auf diese Materialien zugreifen und sie den Kursteilnehmern separat zur Verfügung stellen.  Wenn Sie Kursteilnehmer direkt auf GitHub verweisen, um im Rahmen eines laufenden Kurses auf Lab-Schritte zuzugreifen, müssen sie im Rahmen des Kurses auf eine weitere Benutzeroberfläche zugreifen, was zu Verwirrung führen kann. Eine Erklärung für den Teilnehmer, warum er separate Lab-Abweisungen erhält, kann die Natur einer sich ständig ändernden cloudbasierten Schnittstelle und Plattform hervorheben. Die Microsoft Learning-Unterstützung für den Zugriff auf Dateien auf GitHub und die Unterstützung für die Navigation auf der GitHub-Website ist auf MCTs beschränkt, die diesen Kurs unterrichten.
 
-GitHub no debería usarse para analizar el contenido técnico del curso, ni sobre cómo prepararse. Sirve específicamente para abordar los cambios en los laboratorios.
+GitHub sollte nicht zur Besprechung von technischen Inhalten in dem Kurs oder zur Vorbereitung verwendet werden. Es dient in erster Linie der Vorgehensweise bei Änderungen in den Labs.
 
-> **Nota**: Para abordar los comentarios generales sobre el curso y las demostraciones, o sobre cómo preparase para el curso, use los foros de MCT.
+> **Hinweis**: Für allgemeine Kommentare zu dem Kurs und den Demos oder zur Vorbereitung auf den Kurs verwenden Sie bitte die MCT-Foren.
 
-## Secciones
+## Abschnitte
 
-- [Terminología de GitHub](terminology/)
+- [GitHub-Terminologie](terminology/)
 
-- [Recibir notificaciones de actualizaciones, sugerir cambios y colaborar en proyectos](collaboration/)
+- [Erhalten von Updatebenachrichtigungen, Vorschlagen von Änderungen und Zusammenarbeiten an Projekten](collaboration/)

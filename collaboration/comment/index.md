@@ -1,27 +1,27 @@
-# Crear comentarios
+# Abgeben von Kommentaren
 
-Puede comentar sobre solicitudes de extracción y cambios propuestos (confirmaciones) que hagan otros usuarios. Cuando comenta una confirmación, ve una diferencia del origen del archivo y luego puede comentar sobre cambios específicos línea por línea o para toda la confirmación. También puede hacer sugerencias sobre un proyecto global al enviar una incidencia o comentar sobre una incidencia existente.
+Sie können Pull-Requests und vorgeschlagene Änderungen (Commits) von anderen Personen kommentieren. Wenn Sie einen Commit kommentieren, sehen Sie eine Quell-Diff-Datei der Datei; Sie können dann bestimmte Änderungen zeilenweise oder für den gesamten Commit kommentieren. Sie können auch Vorschläge zu einem gesamten Projekt abgeben, indem Sie ein Thema absenden oder ein vorhandenes Thema kommentieren.
 
-## Revisar y comentar una solicitud de extracción:
+## Überprüfen und Kommentieren eines Pull-Requests:
 
-1.	En su explorador, vaya al repo en aplicable en **GitHub**.
+1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**.
 
-1.	Haga clic en **Pull requests *n***, donde ***n*** es el número de solicitudes de extracción activas.
+1.	Klicken Sie auf **Pull requests *n***, wobei ***n*** für die Anzahl aktiver Pull-Requests steht.
 
-2.	Seleccione la solicitud de extracción que desea revisar y luego, en la pestaña **Write**, en el cuadro de texto **Leave a comment**, escriba su comentario.
+2.	Wählen Sie den Pull-Request aus, die Sie überprüfen möchten, und geben Sie dann auf der Registerkarte **Write** im Textfeld **Leave a comment** Ihren Kommentar ein.
 
-3.	Haga clic en **Comment**.
+3.	Klicken Sie auf **Comment**.
 
-## Revisar y comentar una confirmación:
+## Überprüfen und Kommentieren eines Commits:
 
-1.	En su explorador, vaya al repo en aplicable en **GitHub**.
+1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**.
 
-2.	Haga clic en ***n commits**, donde ***n*** es el número de confirmaciones enviadas. Si desea revisar la confirmación más reciente, puede seleccionar de la lista el título o descripción breve de la confirmación.
+2.	Klicken Sie auf ***n commits**, wobei ***n*** für die Anzahl von Commits steht, die übermittelt wurden. Wenn Sie den letzten Commit überprüfen möchten, können Sie den Titel/die Kurzbeschreibung des Commits aus der Dateiliste auswählen.
 
-3.	En la sección **source diff**, seleccione el cambio que desee comentar. Para ello, haga clic en el signo más **(+)** que aparece cuando pasa el ratón sobre el cambio aplicable.
+3.	Wählen Sie im Abschnitt **source diff** die Änderung aus, die Sie kommentieren möchten, indem Sie auf das Pluszeichen **(+)** klicken, das angezeigt wird, wenn Sie die Maus über die zutreffende Änderung bewegen.
 
-4.	En la pestaña **Write**, en el cuadro de texto **Comment**, escriba su comentario.
+4.	Geben Sie auf der Registerkarte **Write** im Textfeld **Comment** Ihren Kommentar ein.
 
-5.	Haga clic en **Comment**.
+5.	Klicken Sie auf **Comment**.
 
-    > **Nota**: Si desea proporcionar un comentario general para la confirmación, en **n comments on commit**, donde n es el número de comentarios enviados, y luego en la pestaña **Write**, en el cuadro de texto **Leave a comment**, escribe el comentario y haga clic en **Comment on this commit**.
+    > **Hinweis**: Wenn Sie einen allgemeinen Kommentar zu dem Commit abgeben möchten, geben Sie unter „n comments“ (wobei n für die Anzahl übermittelter Kommentare steht) und dann auf der Registerkarte „Write“ im Textfeld „Leave a comment“ Ihren Kommentar ein, und klicken Sie auf „Comment on this commit“.

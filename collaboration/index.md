@@ -1,13 +1,13 @@
-﻿# Recibir notificaciones de actualizaciones, sugerir cambios y colaborar en proyectos
+﻿# Erhalten von Updatebenachrichtigungen, Vorschlagen von Änderungen und Zusammenarbeiten an Projekten
 
-Puede configurar su experiencia en GitHub para recibir notificaciones cuando se produzcan actualizaciones en un repo de GitHub. Hay varias maneras en las que puede suscribirse a notificaciones y muchas de ellas están relacionadas con la variedad de formas de colaborar en un proyecto. Para recibir notificaciones, puede hacer lo siguiente:
+Sie können Ihre GitHub-Erfahrung so konfigurieren, dass Sie Benachrichtigungen erhalten, wenn Aktualisierungen an einem GitHub-Repository vorgenommen werden. Es gibt mehrere Möglichkeiten zur Registrierung für Benachrichtigungen, und viele davon stehen im Zusammenhang mit den zahlreichen Möglichkeiten zur Zusammenarbeit an einem Projekt. Gehen Sie folgendermaßen vor, um Benachrichtigungen zu erhalten:
 
-| Acción | Descripción |
+| Aktion | Beschreibung |
 | --- | --- |
-| [Seguir a repositorios](watching/) | Cuando sigue a un repositorio, GitHub lo suscribe automáticamente a las notificaciones de nuevas solicitudes de extracción o incidencias que se creen para ese repositorio específico. Puede seguir automáticamente cualquier repositorio que crea o para el que es colaborador. |
-| [Solicitud de extracción](pullrequest/) | Cuando crea una solicitud de extracción y propone que los propietarios de una repo acepten un cambio que usted realice, se suscribe automáticamente para recibir notificaciones de la conversación relacionada sobre la solicitud de extracción. Para crear una solicitud de extracción, primero debe crear una rama. |
-| [Comentarios](comment/) | Cuando realice comentarios sobre la solicitud de extracción de otra persona, GitHub lo suscribe automáticamente al foro relacionado con ese comentario, o bien puede suscribirse al foro usted mismo de manera manual. |
-| [Incidencias](issue/) | Una incidencia es una sugerencia, pregunta o solicitud sobre un repositorio. Cada incidencia tiene su propia conversación y puede suscribirse a incidencias. O bien, GitHub lo suscribe automáticamente a las incidencias que usted crea. |
-| [Menciones](mention/) | Cuando otro usuario lo menciona a usted en una conversación, usando su nombre de usuario de GitHub (@nombre de usuario), GitHub lo suscribe automáticamente a la conversación. |
+| [Repositorys beobachten](watching/) | Wenn Sie ein Repository beobachten, abonniert GitHub automatisch Benachrichtigungen für alle neuen Pull-Requests oder Themen für Sie, die für dieses bestimmte Repository erstellt wurden. Sie beobachten automatisch ein Repository, das Sie erstellen oder an dem Sie mitwirken. |
+| [Pull-Request](pullrequest/) | Wenn Sie einen Pull-Request erstellen und vorschlagen, dass die Besitzer eines Repositorys eine Änderungen annehmen, die Sie vornehmen, abonnieren Sie automatisch den Erhalt von Benachrichtigungen für die entsprechende Diskussion über den Pull-Request. Um einen Pull-Request zu erstellen, müssen Sie zuerst eine Verzweigung erstellen. |
+| [Comments](comment/) | Wenn Sie Kommentare zum Pull-Request einer anderen Person abgeben, abonniert GitHub automatisch das Forum für Sie, das zu diesem Kommentar gehört, oder Sie können das Forum manuell abonnieren. |
+| [Issues](issue/) | Ein Issue ist ein Vorschlag, eine Frage oder eine Anfrage, der bzw. die zu einem Repository gehört. Jedes Thema hat seine eigene Diskussion, und Sie können Themen abonnieren. Oder GitHub abonniert automatisch Themen für Sie, die Sie erstellen. |
+| [Mentions](mention/) | Wenn ein anderer Benutzer Sie in einer Unterhaltung mit Ihrem GitHub-Benutzernamen (@username) erwähnt, abonniert GitHub automatisch die Diskussion für Sie. |
 
-> **Nota**: Puede modificar cómo y cuándo recibe notificaciones, así como cancelar la suscripción a cualquier conversación o todas ellas.
+> **Hinweis**: Sie können ändern, wie und wann Sie Benachrichtigungen erhalten, und Sie können die Abonnements für eine oder alle Diskussionen kündigen.
