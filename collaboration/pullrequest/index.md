@@ -1,71 +1,71 @@
-# Vorschlagen von Änderungen und Zusammenarbeiten an einem Repository
+# Vorschlagen von Änderungen und Zusammenarbeit an einem Repository
 
-Mit GitHub ist die Zusammenarbeit mit anderen Microsoft Learn-Benutzern an den Kursen, die Sie interessieren, ganz leicht. 
+Mit GitHub können Sie bequem mit anderen Microsoft Learning-Benutzern an den Kursen zusammenarbeiten, an denen Sie interessiert sind. 
 
-Sie können Ihre eigene Kopie der Lab-Materialien ändern und die Änderungen dann an Microsoft Learn übermitteln, damit Ihre Aktualisierungen eingearbeitet werden können. Sie möchten Ihre Lab-Materialien vielleicht ändern, wenn:
+Sie können Ihre eigene Kopie der Labmaterialien ändern und dann Ihre Änderungen an Microsoft Learning übermitteln, damit Ihre Updates übernommen werden können. In folgenden Fällen sollten Sie Ihre Labmaterialien ändern:
 
-- Sie einen Fehler in einem Lab finden. 
+- Sie finden einen Fehler in einem Lab. 
 
-- Sich die Benutzeroberfläche seit der Erstellung des Labs geändert hat. 
+- Die Benutzeroberfläche wurde seit der Erstellung des Labs geändert. 
 
-- Sie der Meinung sind, dass das Lab verbessert oder bearbeitet werden muss.
+- Sie denken, dass Verbesserungen oder Änderungen an dem Lab erforderlich sind.
 
-Um Lab-Materialien zu ändern, sollten Sie eine Kopie des Repositorys erstellen, darin Aktualisierungen vornehmen und dann einen Pull-Request an den Main (Master) Branch übermitteln. Auf diese Weise können die Mitarbeiter von Microsoft Learn sowie andere MCTs und GitHub-Benutzer Ihre Änderungen überprüfen und kommentieren. 
+Um Labmaterialien zu ändern, sollten Sie das Repository branchen, Aktualisierungen an Ihrem Branch vornehmen und dann einen Pull Request an den Mainbranch (Master) übermitteln. Auf diese Weise können Microsoft Learning-Mitarbeiter und andere MCTs und GitHub-Benutzer Ihre Änderungen überprüfen und kommentieren. 
 
-Sie können Änderungen überprüfen und kommentieren, die andere Benutzer vornehmen. Die Mitarbeiter von Microsoft Learn können diese Änderungen dann genehmigen und sie mit dem Master Branch zusammenführen. Bei dieser Aktion wird ein Benutzer, der das Repository beobachtet, darüber benachrichtigt, dass eine Änderung vorgenommen wurde.
+Sie können Änderungen, die andere Benutzer vornehmen, überprüfen und kommentieren, und Microsoft Learning-Mitarbeiter genehmigen diese Änderungen dann und führen sie mit dem Masterbranch zusammen. Durch diese Aktion werden alle Benutzer, die das Repository überwachen, darüber benachrichtigt, dass eine Änderung vorgenommen wurde.
 
-## Erstellen eines Repository-Branchs
+## Erstellen eines Repositorybranches
 
-1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
+1.  Navigieren Sie in Internet Explorer zum Repository auf GitHub.
 
-1.	Klicken Sie auf **Branch: Branchname** und dann in der Liste **Branches** auf den Branch, den Sie kopieren möchten.
+1.  Klicken Sie auf **Branch : branchname**, und wählen Sie dann in der Liste **Branches** den Branch aus, den Sie kopieren möchten.
 
-    > **Hinweis**:	Wenn es nur einen Branch gibt, so wird in der Dropdownliste **Branch** **Branch: master** angezeigt, und der einzige Branch, der verfügbar ist, ist **master**.
+    > **Hinweis:** Wenn nur ein Branch vorhanden ist, wird in der Dropdownliste **Branch** die Option **Branch: Master** angezeigt, und der einzige verfügbare Branch ist **master**.
 
-3.	Geben Sie in dem leeren Textfeld den Namen des Branches ein, den Sie erstellen möchten.
+3.  Geben Sie im leeren Textfeld den Namen des Branches ein, den Sie erstellen möchten.
 
-4.	Klicken Sie auf **Create branch: new branch name**, wenn diese Option angezeigt wird.
+4.  Klicken Sie auf **Branch erstellen: Name des neuen Branches**, wenn dies angezeigt wird.
 
-Nachdem Sie einen Branch erstellt haben, können Sie die Dateien in Ihrem lokalen Repository klonen, sie auf Ihrem Computer aktualisieren und dann die Änderungen über den GitHub Desktop einchecken. Wenn Sie mit Markdown oder anderen Textdateien arbeiten, können Sie diese in GitHub bearbeiten und dann die Änderungen online überprüfen.
+Nachdem Sie einen Branch erstellt haben, können Sie die Dateien in Ihr lokales Repository klonen, auf Ihrem Computer aktualisieren und dann die Änderungen aus GitHub Desktop einchecken. Wenn Sie mit Markdown- oder anderen Textdateien arbeiten, können Sie sie in GitHub bearbeiten und dann die Änderungen online einchecken.
 
-## Löschen eines Repository-Branchs
+## Löschen eines Repositorybranches
 
-1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
+1.  Navigieren Sie in Internet Explorer zum Repository auf GitHub.
 
-2.	Klicken Sie auf ***n* branches**, wobei ***n*** für die Anzahl vorhandener Branches steht.
+2.  Klicken Sie auf ***n* branches**, wobei ***n*** die Anzahl der vorhandenen Branches ist.
 
-3.	Klicken Sie auf der Seite **Branches** in der Zeile des Branches, den Sie löschen möchten, auf das Symbol **Delete this branch**.
+3.  Klicken Sie auf der Seite **Branches** in der Zeile für den Branch, den Sie löschen möchten, auf das Symbol **Diesen Branch löschen**.
 
-## Speichern von Änderungen mithilfe von GitHub Desktop:
+## Committen von Änderungen mithilfe von GitHub Desktop
 
-1.	Öffnen Sie **GitHub Desktop**.
+1.  Öffnen Sie **GitHub Desktop**.
 
-2.	Wählen Sie das Repository aus, das Ihre Änderungen enthält, und klicken Sie dann auf **Änderungen**.
+2.  Wählen Sie das Repository aus, das Ihre Änderungen enthält, und klicken Sie dann auf **Änderungen**.
 
-3.	Wählen Sie die Änderungen aus, die Sie speichern möchten, und schreiben Sie dann im Textfeld **Summary** eine kurze Beschreibung der Änderung.
+3.  Wählen Sie die Änderungen aus, die Sie committen möchten, und geben Sie dann im Textfeld **Zusammenfassung** eine kurze Beschreibung der Änderung ein.
 
-4.	Schreiben Sie im Textfeld **Description** eine ausführlichere Beschreibung der Änderung, falls erforderlich.
+4.  Geben Sie in das Textfeld **Beschreibung** bei Bedarf eine detailliertere Beschreibung der Änderung ein.
 
-5.	Klicken Sie auf **Commit to master** und dann auf **Sync**, um die lokalen Änderungen in das Online-Repository zu verschieben.
+5.  Klicken Sie auf **Commit to Master** und dann auf **Sync**, um die lokalen Änderungen in das Onlinerepository zu übertragen.
 
-## Bearbeiten von Dateien und Speichern von Änderungen im Online-Repository:
+## Bearbeiten von Dateien und Committen von Änderungen im Onlinerepository
 
-1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**, und wählen Sie die Datei aus, die Sie bearbeiten möchten.
+1.  Navigieren Sie in Ihrem Browser zu dem entsprechenden Repository auf **GitHub**, und wählen Sie dann die Datei aus, die Sie bearbeiten möchten.
 
-2.	Klicken Sie auf das Symbol **Edit this file**.
+2.  Klicken Sie auf das Symbol **Diese Datei bearbeiten**.
 
-3.	Nehmen Sie Ihre Änderungen auf der Registerkarte **Edit file** der Webseite vor, und klicken Sie dann auf **Preview changes**, um die vorgeschlagenen Änderungen anzuzeigen, ohne sie zu speichern.
+3.  Nehmen Sie Ihre Änderungen auf der Registerkarte **Datei bearbeiten** auf der Webseite vor, und klicken Sie dann auf **Vorschau der Änderungen**, um die vorgeschlagenen Änderungen anzuzeigen, ohne dass sie commitet werden.
 
-4.	Geben Sie unter **Commit changes** im Textfeld **Update *filename*** eine kurze Beschreibung der Änderungen ein.
+4.  Geben Sie unter **Commit für Änderungen ausführen** im Textfeld ***Dateiname* aktualisieren** eine kurze Beschreibung der Änderungen ein.
 
-5.	Geben Sie im Textfeld **Add an optional extended description...** eine ausführlichere Beschreibung der Änderung ein, falls erforderlich, und klicken Sie dann auf **Commit changes**.
+5.  Geben Sie im Textfeld **Eine optionale erweiterte Beschreibung hinzufügen** eine detailliertere Beschreibung der Änderung ein, falls erforderlich. Klicken Sie dann auf **Commit für Änderungen ausführen**.
 
-## Erstellen eines Pull-Requests:
+## Erstellen eines Pull Requests
 
-1.	Navigieren Sie in Ihrem Browser zum entsprechenden Repository auf **GitHub**.
+1.  Navigieren Sie im Browser zum gewünschten Repository in **GitHub**.
 
-2.	Klicken Sie auf **Branch: Branchname** und dann in der Liste **Branches** auf den Branch, für den Sie einen Pull-Request erstellen möchten.
+2.  Klicken Sie auf **Branch:branchname**, und wählen Sie dann in der Liste **Branches** den Branch aus, für den Sie einen Pull Request erstellen möchten.
 
-3.	Klicken Sie auf **New pull request**, und aktualisieren Sie dann auf der Seite **Open a pull request** im Textfeld **Title** den Namen des Pull-Requests, falls erforderlich.
+3.  Klicken Sie auf **Neuer Pull Request**, und aktualisieren Sie dann auf der Seite **Pull Request öffnen** im Textfeld **Titel** ggf. den Namen des Pull Requests.
 
-4.	Geben Sie auf der Registerkarte **Write** im Textfeld **Leave a comment** eine Beschreibung der vorgeschlagenen Änderung ein, und klicken Sie dann auf **Create pull request**.
+4.  Geben Sie auf der Registerkarte **Schreiben** im Textfeld **Kommentar hinterlassen** eine Beschreibung der vorgeschlagenen Änderung ein, und klicken Sie dann auf **Pull Request erstellen**.

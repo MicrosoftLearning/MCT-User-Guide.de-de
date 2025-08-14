@@ -1,13 +1,13 @@
-﻿# Erhalten von Updatebenachrichtigungen, Vorschlagen von Änderungen und Zusammenarbeiten an Projekten
+# Empfangen von Aktualisierungsbenachrichtigungen, Vorschlagen von Änderungen und Zusammenarbeit in Projekten
 
-Sie können Ihre GitHub-Erfahrung so konfigurieren, dass Sie Benachrichtigungen erhalten, wenn Aktualisierungen an einem GitHub-Repository vorgenommen werden. Es gibt mehrere Möglichkeiten zur Registrierung für Benachrichtigungen, und viele davon stehen im Zusammenhang mit den zahlreichen Möglichkeiten zur Zusammenarbeit an einem Projekt. Gehen Sie folgendermaßen vor, um Benachrichtigungen zu erhalten:
+Sie können Ihre GitHub-Benutzeroberfläche so konfigurieren, dass Sie Benachrichtigungen erhalten, wenn Aktualisierungen an einem GitHub-Repository vorgenommen werden. Es gibt mehrere Möglichkeiten, wie Sie Benachrichtigungen abonnieren können. Viele davon hängen mit den vielen Möglichkeiten zusammen, wie Sie an einem Projekt zusammenarbeiten können. Um Benachrichtigungen zu erhalten, können Sie:
 
 | Aktion | Beschreibung |
 | --- | --- |
-| [Repositorys beobachten](watching/) | Wenn Sie ein Repository beobachten, abonniert GitHub automatisch Benachrichtigungen für alle neuen Pull-Requests oder Themen für Sie, die für dieses bestimmte Repository erstellt wurden. Sie beobachten automatisch ein Repository, das Sie erstellen oder an dem Sie mitwirken. |
-| [Pull-Request](pullrequest/) | Wenn Sie einen Pull-Request erstellen und vorschlagen, dass die Besitzer eines Repositorys eine Änderungen annehmen, die Sie vornehmen, abonnieren Sie automatisch den Erhalt von Benachrichtigungen für die entsprechende Diskussion über den Pull-Request. Um einen Pull-Request zu erstellen, müssen Sie zuerst eine Verzweigung erstellen. |
-| [Comments](comment/) | Wenn Sie Kommentare zum Pull-Request einer anderen Person abgeben, abonniert GitHub automatisch das Forum für Sie, das zu diesem Kommentar gehört, oder Sie können das Forum manuell abonnieren. |
-| [Issues](issue/) | Ein Issue ist ein Vorschlag, eine Frage oder eine Anfrage, der bzw. die zu einem Repository gehört. Jedes Thema hat seine eigene Diskussion, und Sie können Themen abonnieren. Oder GitHub abonniert automatisch Themen für Sie, die Sie erstellen. |
-| [Mentions](mention/) | Wenn ein anderer Benutzer Sie in einer Unterhaltung mit Ihrem GitHub-Benutzernamen (@username) erwähnt, abonniert GitHub automatisch die Diskussion für Sie. |
+| [Repositorys überwachen](watching/) | Wenn Sie ein Repository überwachen, abonniert GitHub automatisch Benachrichtigungen für neue Pull Requests oder Issues, die für dieses Repository erstellt werden. Sie überwachen automatisch jedes Repository, das Sie erstellen oder für das Sie als Mitarbeiter gelten. |
+| [Pull Request](pullrequest/) | Wenn Sie einen Pull Request erstellen und vorschlagen, dass die Besitzer eines Repositorys eine von Ihnen vorgenommene Änderung annehmen, abonnieren Sie automatisch Benachrichtigungen für die zugehörige Unterhaltung über den Pull Request. Um einen Pull Request zu erstellen, müssen Sie zuerst einen Branch erstellen. |
+| [Kommentare](comment/) | Wenn Sie Kommentare zu dem Pull Request einer anderen Person abgeben, abonnieren Sie automatisch in GitHub das Forum, das sich auf diesen Kommentar bezieht, oder Sie können das Forum manuell abonnieren. |
+| [Probleme](issue/) | Ein Issue ist ein Vorschlag, eine Frage oder eine Anforderung, die sich auf ein Repository bezieht. Zu jedem Issue gehört eine eigene Unterhaltung. Sie können Issues abonnieren, oder GitHub abonniert automatisch Issues für Sie, die Sie erstellen. |
+| [Erwähnungen](mention/) | Wenn ein anderer Benutzer Sie in einer Unterhaltung erwähnt, indem er Ihren GitHub-Benutzernamen (@username) verwendet, abonniert GitHub die Unterhaltung automatisch. |
 
-> **Hinweis**: Sie können ändern, wie und wann Sie Benachrichtigungen erhalten, und Sie können die Abonnements für eine oder alle Diskussionen kündigen.
+> **Hinweis:** Sie können ändern, wie und wann Sie Benachrichtigungen erhalten, und Sie können auch Abonnements für einzelne oder alle Unterhaltungen beenden.

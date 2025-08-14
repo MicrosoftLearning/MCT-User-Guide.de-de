@@ -1,17 +1,17 @@
-# Beobachten eines Repositorys
+# Überwachen eines Repositorys
 
-Die einfachste Möglichkeit, um sicherzustellen, dass Sie über Änderungen an einem Repository auf dem Laufenden sind, besteht darin, das Repository zu beobachten. Dies ist auch dann möglich, wenn Sie eine lokale Kopie des Repositorys nicht klonen.
+Die einfachste Möglichkeit, um sicherzustellen, dass Sie alle Änderungen an einem Repository kennen, besteht darin, es zu beobachten. Dies ist auch dann möglich, wenn Sie keine lokale Kopie des Repositorys klonen.
 
-Führen Sie die folgenden Schritte aus, um ein Repository zu beobachten:
+Führen Sie die folgenden Schritte aus, um ein Repository anzuzeigen:
 
-1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
+1.  Navigieren Sie im Internet Explorer zu dem Repository auf GitHub.
 
-2.	Klicken Sie auf **Watch**, und wählen Sie dann unter **Notifications** die Option **Watching** aus.
+2.  Klicken Sie auf **Überwachungselement**, und wählen Sie dann unter**Benachrichtigungen** die Option **Beobachtung** aus.
 
-Führen Sie die folgenden Schritte aus, um die Beobachtung eines Repositorys zu beenden:
+Führen Sie die folgenden Schritte aus, um die Überwachung eines Repositorys zu beenden:
 
-1.	Navigieren Sie in Internet Explorer zum entsprechenden Repository auf GitHub.
+1.  Navigieren Sie im Internet Explorer zu dem Repository auf GitHub.
 
-2.	Klicken Sie auf **Watch**, und wählen Sie dann unter „Notifications“ die Option **Not watching** aus.
+2.  Klicken Sie auf **Überwachungselement**, und wählen Sie dann unter „Benachrichtigungen“ die Option **Keine Beobachtung** aus.
 
-> **Hinweis**: Sie können die Option **Ignoring** in der Dropdownliste **Watch** ignorieren. Dies bedeutet jedoch, dass Sie keine Benachrichtigungen erhalten, auch dann nicht, wenn ein anderer Benutzer Sie mit der Erwähnungsfunktion und Ihrem GitHub-Benutzernamen in eine Diskussion einschließt. Sie sollten daher bei der Konfiguration der Option **Ignoring** vorsichtig sein.
+> **Hinweis:** Sie können die Option **Ignorieren** in der Dropdownliste **Überwachungselement** auswählen. Dies bedeutet jedoch, dass Sie keine Benachrichtigungen erhalten, auch wenn ein anderer Benutzer Sie in eine Diskussion mit der Erwähnungsfunktion und ihrem GitHub-Benutzernamen einschließt. Daher sollten Sie die Konfiguration der Option **Ignorieren** sorgfältig konfigurieren.
